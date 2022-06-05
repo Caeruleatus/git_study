@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Operation 2nd
+=======
+Operation 1
+>>>>>>> 7d2260bd7f344124cc639db060f4bd619c7e8bcf
+Do nothing to this confilict.
